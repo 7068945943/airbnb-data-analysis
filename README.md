@@ -30,5 +30,3 @@ Some important columns included in the dataset:
 - NumPy
 - Matplotlib / Seaborn
 - Google Colab
-df = pd.read_csv(url)
-df.head()
